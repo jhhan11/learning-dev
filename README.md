@@ -14,6 +14,8 @@
 - git clone
 - git push
 - git pull
+- git add
+
 
 ## 단축키
 - control + l : 이전화면 올리기
